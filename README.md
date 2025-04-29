@@ -1,7 +1,7 @@
 # Fala amigos, eu sou Vinicius, um prazer ter vocês aqui
 
 - 💼 Trabalhando como Engenheiro de Dados na **NTT DATA**
-- 💻 Experiência com JAVA, MYSQL, Databricks, Azure, Apache Spark e SQL  
+- 💻 Experiência com Python, SQL, Databricks, Azure, Apache Spark, JavaScript e HTML/CSS
 - 📫 Entre em contato pelo e-mail: [vinicasseb99@gmail.com](mailto:vinicasseb99@gmail.com)
 
 <!-- GitHub Stats -->
