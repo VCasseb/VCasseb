@@ -5,8 +5,8 @@
 
 <!-- GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leocalegario&show_icons=true&theme=dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leocalegario&layout=compact&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=VCasseb&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VCasseb&layout=compact&theme=dark" />
 </p>
 
 <!-- Skills -->
