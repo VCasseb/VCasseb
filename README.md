@@ -1,7 +1,7 @@
-# Fala amigos, eu sou Leonardo, um prazer ter vocês aqui
+# Fala amigos, eu sou Vinicius, um prazer ter vocês aqui
 
 - 💻 Trabalhando com JAVA e MYSQL  
-- 📫 Entre em contato pelo e-mail: [leonardo.r.calegario@hotmail.com](mailto:leonardo.r.calegario@hotmail.com)
+- 📫 Entre em contato pelo e-mail: [vinicasseb99@gmail.com](mailto:vinicasseb99@gmail.com)
 
 <!-- GitHub Stats -->
 <p align="center">
