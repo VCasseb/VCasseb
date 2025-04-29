@@ -1,6 +1,7 @@
 # Fala amigos, eu sou Vinicius, um prazer ter vocês aqui
 
-- 💻 Trabalhando com JAVA e MYSQL  
+- 💼 Trabalhando como Engenheiro de Dados na **NTT DATA**
+- 💻 Experiência com JAVA, MYSQL, Databricks, Azure, Apache Spark e SQL  
 - 📫 Entre em contato pelo e-mail: [vinicasseb99@gmail.com](mailto:vinicasseb99@gmail.com)
 
 <!-- GitHub Stats -->
@@ -15,6 +16,10 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
 <!-- Redes Sociais -->
