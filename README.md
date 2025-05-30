@@ -1,8 +1,8 @@
-# Fala amigos, eu sou Vinicius, um prazer ter vocês aqui
+# Hey friends, I'm Vinicius — it's a pleasure to have you here!
 
-- 💼 Trabalhando como Engenheiro de Dados na **NTT DATA**
-- 💻 Experiência com Python, SQL, JavaScript, HTML/CSS, Databricks, Azure e Apache Spark
-- 📫 Entre em contato pelo e-mail: [vinicasseb99@gmail.com](mailto:vinicasseb99@gmail.com)
+- 💼 Working as a Data Engineer at **NTT DATA**
+- 💻 Experience with Python, SQL, JavaScript, HTML/CSS, Databricks, Azure, and Apache Spark
+- 📫 Get in touch via email: [vinicasseb99@gmail.com](mailto:vinicasseb99@gmail.com)
 
 <!-- GitHub Stats -->
 <p align="center">
@@ -23,8 +23,8 @@
   <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
 </p>
 
-<!-- Redes Sociais -->
+<!-- Social Media -->
 <p align="center">
   <a href="https://instagram.com/vinicasseb" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/vinicius-cezar-casseb-a1b803189" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/vinicius-cezar-casseb-a1b803189/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
