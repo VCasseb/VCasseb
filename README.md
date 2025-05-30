@@ -2,8 +2,7 @@
 
 - 💼 Working as a Data Engineer at **NTT DATA**
 - 💻 Experience with Python, SQL, JavaScript, HTML/CSS, Databricks, Azure, and Apache Spark
-- 📫 Get in touch via email: [vinicasseb99@gmail.com](mailto:vinicasseb99@gmail.com)
--  Or Linkedin https://www.linkedin.com/in/vinicius-cezar-casseb-a1b803189/
+- 📫 Get in touch via email: [vinicasseb99@gmail.com](mailto:vinicasseb99@gmail.com) Or Linkedin https://www.linkedin.com/in/vinicius-cezar-casseb-a1b803189/
 
 <!-- GitHub Stats -->
 <p align="center">
